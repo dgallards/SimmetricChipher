@@ -20,7 +20,7 @@ import java.awt.event.MouseEvent;
 import java.util.Arrays;
 /**
  * Este es el panel para elegir la contraseña en la GUI.
- * @author Diego Gallardo Zancada y Daniel Merino Cortés
+ * @author Diego Gallardo Zancada
  *
  */
 public class PasswordPanel extends JDialog {

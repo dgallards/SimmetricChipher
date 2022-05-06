@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"p2","l":"AlgSelector"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"srt","l":"BasicHeader"},{"p":"p2","l":"BssGUI"},{"p":"srt","l":"Header"},{"p":"p2","l":"KeyOperations"},{"p":"p2","l":"LangSelector"},{"p":"p2","l":"Messages"},{"p":"p2","l":"Operations"},{"p":"srt","l":"Options"},{"p":"p2","l":"PasswordPanel"},{"p":"p2","l":"Practica2"}]

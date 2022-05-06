@@ -11,7 +11,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 /**
  * Este es el panel de selección de idioma.
- * @author Diego Gallardo Zancada y Daniel Merino Cortés
+ * @author Diego Gallardo Zancada
  *
  */
 public class LangSelector extends JDialog {

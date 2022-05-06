@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileNameExtensionFilter;
 /**
  * Esta clase es la encargada de mostrar la interfaz gráfica y lanzar los algoritmos de cifrado
- * @author Diego Gallardo Zancada y Daniel Merino Cortés
+ * @author Diego Gallardo Zancada
  *
  */
 public class BssGUI {

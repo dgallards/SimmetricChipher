@@ -12,7 +12,7 @@ import srt.Options;
 
 /**
  * Esta clase es la que se encarga de cifrar los archivos
- * @author Diego Gallardo Zancada y Daniel Merino Cortés
+ * @author Diego Gallardo Zancada
  *
  */
 public class Practica2 {

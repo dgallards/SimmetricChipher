@@ -13,7 +13,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 /**
  * Este es el panel de selección de algortimo de cifrado
- * @author Diego Gallardo Zancada y Daniel Merino Cortés
+ * @author Diego Gallardo Zancada
  *
  */
 public class AlgSelector extends JDialog {
